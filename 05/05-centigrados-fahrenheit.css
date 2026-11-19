@@ -1,0 +1,39 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    margin: 0;
+    padding: 40px 20px;
+}
+
+h1 {
+    color: darkred;
+}
+
+.enunciado {
+    max-width: 600px;
+    margin: 20px auto 30px;
+}
+
+input {
+    width: 260px;
+    padding: 10px;
+    font-size: 16px;
+    border: none;
+    border-bottom: 2px solid #aac;
+    outline: none;
+}
+
+input:focus {
+    border-bottom-color: darkred;
+}
+
+.cajita {
+    width: 320px;
+    margin: 30px auto;
+    padding: 20px;
+    background-color: #06b816;
+    color: white;
+    border: 3px solid purple;
+    border-radius: 8px;
+    font-size: 18px;
+}

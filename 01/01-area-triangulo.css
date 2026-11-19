@@ -1,0 +1,30 @@
+* { 
+    margin: 0; 
+    padding: 0; 
+    box-sizing: border-box;
+
+}
+.body{
+    font-family: Arial, sans-serif;
+    padding: 30px 16px;
+    text-align: center;
+}
+.h1{
+    color: rgb(128, 0, 0);
+    font-size: 22px;
+    margin-bottom: 8px;
+}
+.enunciado{
+    font-size: #ef0606;
+    margin-bottom: 20px;
+}
+.cajita {
+    background-color: rgb(5, 182, 20);
+    color: white;
+    width: 260px;
+    margin: 20px auto 0;
+    padding: 10px;
+    text-align: center;
+    border: 3px solid rgb(182, 6, 236);
+    border-radius: 5px;
+}
